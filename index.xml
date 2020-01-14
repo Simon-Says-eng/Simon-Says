@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ghostwriter example</title>
+    <title>Simon Says Engineering</title>
     <link>https://simon-says-eng.github.io/Simon-Says/</link>
-    <description>Recent content on Ghostwriter example</description>
+    <description>Recent content on Simon Says Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>My Name</copyright>
     <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate>
     
 	<atom:link href="https://simon-says-eng.github.io/Simon-Says/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +16,7 @@
       <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
       
       <guid>https://simon-says-eng.github.io/Simon-Says/page/about/</guid>
-      <description>About Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dolor in magna lobortis egestas. Suspendisse eu erat tempor, tristique neque eu, convallis nulla. Curabitur vel bibendum lacus, at semper mauris. Suspendisse aliquet commodo ex, sed sagittis metus aliquam id. Maecenas feugiat rutrum lorem vel imperdiet. Nullam ornare lectus ut enim finibus, et porttitor mi tincidunt. Aenean lacinia, leo quis vehicula eleifend, quam libero sagittis erat, at euismod augue mauris et sapien.</description>
+      <description>About Simon Who is Simon? Simon is a guy who lives in Germany. Simon is not like everyone. Simon always tries to think different. Every day, I am asking myself, what do you do the whole day and what should you do. Most of my time i am a guy who edits and fills forms for offices and office people. In the other quarter of my day i try to develop electronics or software.</description>
     </item>
     
     <item>
@@ -27,7 +25,7 @@
       <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
       
       <guid>https://simon-says-eng.github.io/Simon-Says/page/contact/</guid>
-      <description>Contact Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus. Quisque hendrerit sit amet turpis eu varius. Ut id lorem ac felis ultrices tincidunt. Pellentesque consequat arcu ac fringilla imperdiet. Phasellus pellentesque, sapien non pulvinar blandit, sapien ante aliquet felis, vel porttitor sapien ante in lacus. Fusce non urna aliquet, malesuada nibh vel, luctus urna. Phasellus ut lacus molestie, varius purus quis, malesuada lorem.</description>
+      <description>Contact Like Simon in the movie, i don&amp;rsquo;t want to be contacted for every wrong word on this site. But i am always interested for comments to my mind games. If someone wants to contact me you can try it through the given mail adress. Sometimes i will look to the inbox and answer when it is useful for me or the blog.</description>
     </item>
     
     <item>
